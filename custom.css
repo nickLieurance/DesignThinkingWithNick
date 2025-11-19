@@ -1,0 +1,23 @@
+
+body {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.container {
+
+  
+}
+
+.row {
+    align-items: center;
+    overflow-y:scroll;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+#me {
+  border-radius: 25px;
+}
